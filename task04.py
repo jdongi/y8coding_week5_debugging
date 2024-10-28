@@ -1,6 +1,6 @@
 age = input("How old are you?")
 
-print("Nice to know you are", old, "years old!")
+print("Nice to know you are", age, "years old!")
 
 
 ### What was wrong ?

@@ -1,5 +1,5 @@
-city = print("Where do you live?")
-input("You live in " + city)
+city = input("Where do you live?")
+print("You live in " + city)
 
 
 

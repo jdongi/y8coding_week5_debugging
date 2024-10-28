@@ -1,5 +1,7 @@
+name = input('What is your name?')
+
 if name == "Bob":
-print("Who are you Bob?")
+    print("Who are you Bob?")
 else:
     print("Welcome to the debugging lesson!")
 

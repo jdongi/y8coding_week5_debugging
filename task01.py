@@ -1,5 +1,5 @@
 ready = input("Ready to learn about debugging?")
-print)"OK let's go!"(
+print("OK let's go!")
 
 
 
